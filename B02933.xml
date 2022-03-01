@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the right honourable the knights, citizens, and burgesses assembled in Parliament. The answer of the East-India Company, to two printed papers of Mr. Samuel White, one entitled His case; the other, A true accompt of the passages at Mergen.</title>
+            <author>East India Company.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02933</idno>
+            <idno type="STC">Wing E100J</idno>
+            <idno type="STC">ESTC R174835</idno>
+            <idno type="EEBO-CITATION">51617682</idno>
+            <idno type="OCLC">ocm 51617682</idno>
+            <idno type="VID">175206</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02933)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175206)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2721:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the right honourable the knights, citizens, and burgesses assembled in Parliament. The answer of the East-India Company, to two printed papers of Mr. Samuel White, one entitled His case; the other, A true accompt of the passages at Mergen.</title>
+                  <author>East India Company.</author>
+                  <author>White, Samuel, ca. 1650-1689 His case.</author>
+                  <author>White, Samuel, ca. 1650-1689 A true accompt of the passages at Mergen.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication data suggested by Wing.</note>
+                  <note>Reproduction of the original in the Columbia University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>East India Company --  Early works to 1800.</term>
+               <term>Great Britain --  Commerce --  India --  Early works to 1800.</term>
+               <term>India --  Commerce --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:175206:1" rendition="simple:additions"/>
+            <head>To the Right Honourable the Knights, Citizens and Bur<g ref="char:EOLhyphen"/>geſſes Aſſembled in Parliament.</head>
+            <head type="sub">The Anſwer of the <hi>Eaſt-India-Company,</hi> to Two Printed Papers of Mr. <hi>Samuel White,</hi> One Entitu<g ref="char:EOLhyphen"/>led <hi>His Caſe;</hi> The other, <hi>A True Accompt of the Paſſages at</hi> Mergen.</head>
+            <p>NOT to trouble the Honourable Houſe with hard Reflections upon the Complainant, or Rhetorical flouriſhes which prove nothing but his paſſion and want of ſolid grounds to ſupport his Complaint, or juſtifie himſelf. We ſhall only exhibit to your Honours the plain proofs of Fact, we have received from <hi>India;</hi> which we preſume will evince the Com<g ref="char:EOLhyphen"/>plainant, not only to be a very ill man, but a great Interloper, and a great Ene<g ref="char:EOLhyphen"/>my to this Kingdom in general, and the premeditated contriver of the deaths of thoſe Engliſh Men, whom he and his Accomplices had firſt inveigled into the King of <hi>Syam</hi>'s ſervice, and afterwards deſtroyed in a time of Truce, by wicked Arts, particularized in the annexed proofs; when he obſerved they were reſolved to return to their duty to His Majeſty, and the publick ſervice of their own Coun<g ref="char:EOLhyphen"/>trey.</p>
+            <p>By the annexed proofs, we think it will likewiſe appear how little diſtinction he made between the King of <hi>Syam</hi>'s Eſtate, and his own; and how often he pleaſed to call Ships and their whole Ladings ſometimes his own, and ſometimes the ſame Ships again the King of <hi>Syam</hi>'s, as would beſt ſerve his preſent deſigns; and therefore he might as well ſay he acquired three times the Eſtate he claims, as half of that he pretends to have had.</p>
+            <p>The annexed proofs we think do likewiſe detect his forgeing Commiſſions under the King of <hi>Syam</hi>'s Miniſters Seals, to juſtifie his making War upon the Companies Allies, Subjects of the King of <hi>Gulcondah;</hi> by his own private Com<g ref="char:EOLhyphen"/>miſſion, not only without the King of <hi>Syam</hi>'s conſent, but expreſly againſt his Order. In which War ſo made by his private Commiſſion, ſeveral Towns were burnt, many Men killed, Ships and Veſſels rifled, taken, and deſtroyed: and amongſt them divers of the Companies Subjects under His Majeſty, Inhabitants of their City of <hi>Madraſſe,</hi> ſome of whom he made Slaves, and all this not onely to the dammage of the Company above 30000 pounds, but to the great ſcandal and diſhonour of the Engliſh Nation, Engliſh Deſerters being employed by him in thoſe Lawleſs and Injurious attempts.</p>
+            <p>By the <hi>Dutch</hi> Laws in <hi>India</hi> who are a Nation as tenacious of their Liberty, as any people upon Earth, and by the Laws and practices of all other <hi>European</hi> Na<g ref="char:EOLhyphen"/>tions; there a Deſerter or Interloper is not only to be confiſcated, but to ſuffer death: although the Engliſh Judicatures in <hi>India</hi> have never proceeded in ſuch Caſes, further than according to their Charters to condemn ſuch Interlopers Ships and Goods, one half for the uſe of His Majeſty, and the other half to the Com<g ref="char:EOLhyphen"/>panies uſe. And if they ſhould not have power ſo to do, the whole Trade of <hi>India</hi> would unavoidably fall to the <hi>Dutch</hi> and <hi>French,</hi> as hath been made evident in many hearings at the Council-Table in the Two laſt Reigns, as well as in more antient times, and by ſeveral Treatiſes in Print.</p>
+            <pb n="2" facs="tcp:175206:2"/>
+            <p>As to the grounds of the War with the King of <hi>Syam,</hi> occaſioned by his Grand Viſier or Chief Miniſter <hi>Conſtantine Phaulkon,</hi> who was a poor Fellow, formerly Stewards Mate of a ſmall ſhip of the Companies. We humbly conceive there will be no doubt made by conſidering Gentlemen, but that the grounds of that War were not only juſt but very cogent; conſidering His late Majeſty King <hi>James</hi> mov'd by the neceſſity of the Caſe, gave Commiſſions of War under the great Seal of <hi>England,</hi> againſt the King of <hi>Syam</hi> and His Subjects, notwithſtanding <hi>Phaulkon</hi> had made a ſtrong Confederacy between his Maſter and the <hi>French,</hi> turned Papiſt himſelf; and as the Company are informed ſent his Son to be Edu<g ref="char:EOLhyphen"/>cated a Papiſt in <hi>France,</hi> made curious Preſents of great value to the Pope, the late King <hi>James</hi> and His Queen, and alſo to the <hi>French</hi> King. But if your Ho<g ref="char:EOLhyphen"/>nours think it proper to require further ſatisfaction, touching the reaſons of that War, and the ſucceſs of it, the Company will be ready to preſent your Honours with a larger Narrative thereof.</p>
+            <p>That <hi>Phaulkon</hi> and his Creatures Mr. <hi>White, Burnebey,</hi> &amp;c. were kind to ſome of the Companies Servants at <hi>Madraſſe,</hi> and to the Captain of the <hi>Curtana,</hi> eſpe<g ref="char:EOLhyphen"/>cially, who was at laſt made his own intirely contrary to his duty, as appears evi<g ref="char:EOLhyphen"/>dently by the annexed proofs, and in many other inſtances to particular perſons, the Company beleive may be true. And it is one of the particulars that they did juſtly complain of to His late Majeſty, That <hi>Phaulkon</hi> by great Rewards, as well, as by great wages, and kind inveigling Words, did endeavour to indulge many of the Companies Servants, Commanders and Seamen, but all with a deſign of cor<g ref="char:EOLhyphen"/>rupting them from their Fidelity, Duty, and Service to the Company, that he might in time become ſtrong enough in <hi>European</hi> Seamen and Souldiers, with the Aid of the <hi>French</hi> King, <hi>Engliſh</hi> Interlopers, and <hi>Engliſh</hi> and <hi>Dutch</hi> Fugitives; to oppreſs firſt the Engliſh Company in <hi>India,</hi> and at laſt the Dutch. But on the other hand, ſuch of the Engliſh as he found true to the Company, and their common Countrey, he uſed with the greateſt contempt and barbarity imaginable; as parti<g ref="char:EOLhyphen"/>cularly Mr. <hi>Potts,</hi> he cauſed to be beaten by <hi>Cofferies</hi> or <hi>Negroes,</hi> which is in <hi>India</hi> underſtood, accounted, and intended to be a publick affront to the Nation of which any perſon ſo abuſed is a Member. Mr. <hi>Strang,</hi> Mr. <hi>Crouch</hi> and others, which he could not draw to his Lure, he uſed with the greateſt unkindneſs. Cap<g ref="char:EOLhyphen"/>tain <hi>Lake</hi> in a ſtrange manner he brought to his death, of which a more particu<g ref="char:EOLhyphen"/>lar account ſhall be given if it be required.</p>
+            <p>As to what was formerly Printed in any News Papers (which is not pertinent to this Caſe) the Company ſay in truth, They never gave out any Paper or any In<g ref="char:EOLhyphen"/>telligence to the Secretaries of ſtate, but what were exactly according to their ad<g ref="char:EOLhyphen"/>vices from <hi>India.</hi> And if the firſt advices from ſuch remote places, prove not exactly correſpondent to the Events, and all the Circumſtances of Fact, They do not con<g ref="char:EOLhyphen"/>ceive themſelves blameable for ſuch miſtakes of their adviſers. But they cannot by the later advices or the proofs annexed, ſee any conſiderable Error in theſe firſt advices they received from <hi>India,</hi> more than that a very few of the Compa<g ref="char:EOLhyphen"/>nies Soldiers or Servants periſhed in that Maſſacre, with the reſt of their Coun<g ref="char:EOLhyphen"/>trey-men, that had been formerly Interlopers or Deſerters.</p>
+            <p>On the whole matter, and in anſwer to all other Complaints of Interlopers; The Company ſay, they have done nothing but what they conceive they are warrant<g ref="char:EOLhyphen"/>ed to do by their Charter, and which they thought themſelves bound in Conſci<g ref="char:EOLhyphen"/>ence to perform to the utmoſt of their power for the publick good of this King<g ref="char:EOLhyphen"/>dom and of Poſterity; which They have more zealouſly purſued than any pro<g ref="char:EOLhyphen"/>per Intereſt of their own, or of the Adventurers; well knowing that the Navigation of this Kingdom, and indeed of all <hi>European</hi> Nations, depends moſt upon the ſupport of the <hi>Eaſt-India</hi> Trade, and that the <hi>Eaſt-India</hi> Trade cannot poſſibly be ſupported without Interlopers and Deſerters be corrected and diſcouraged, by inflicting the
+<pb n="3" facs="tcp:175206:2"/>ſeveral Penalties on all Tranſgreſſors of that kind. And this agrees to the Wiſdom of all Nations that have ſpent a ſerious thought concerning the <hi>Eaſt-India</hi> Trade; which is the true reaſon that neither a <hi>French, Dutch, Daniſh</hi> or <hi>Portugal</hi> Interlo<g ref="char:EOLhyphen"/>per, without the Conſent of their proper Companies, or the reſpective Sove<g ref="char:EOLhyphen"/>raign of thoſe Countreys, was ever heard of to the Companies knowledge, to ſail from <hi>Europe</hi> into thoſe Eaſtern ſeas. The reaſon of which conſent of Nations in this matter is as manifeſt as the Sun at noon day. For that the <hi>Engliſh</hi> Company having now and neceſſarily ſo many Towns, Forts, and Garriſons, Ships of War and Tenders, cannot maintain them under the expence of 200000 <abbr>l.</abbr> 
+               <hi>per annum.</hi> Beſides the infinite Charge of Preſents, Buildings, Guards, and Demorage of ſhips that muſt frequently at<g ref="char:EOLhyphen"/>tend and be releived, and recruited for it may be 6, 7, or 10 years together before ſuch a Fortification or New ſettlement will be ſtrongly fixt, ſo as to be able to defend it ſelf without ſhipping often in the Road, and in a condition to produce any revenue to<g ref="char:EOLhyphen"/>wards the publick Charge.</p>
+            <p>As to the Soveraign or Deſpotical Power exerciſed by the Company in <hi>India,</hi> which the Complainant plays with in his Printed Papers. The Company ſay, and all wiſe men in the Affairs of <hi>India</hi> know, that the Company exerciſe no power, but what they had by their Charter, neither have any power by Their Charter other than ſuch as the Dutch have by their Rocktroy or Charter. Or if the Company ſhould have leſs, it would be impoſſible for them, whenever the Dutch ſhould be out of humour, to maintain the re<g ref="char:EOLhyphen"/>mainder of the <hi>Engliſh</hi> Intereſt in <hi>India,</hi> but all would be loſt as eaſily as the <hi>Spice</hi> Iſlands were in the laſt age, and <hi>Macaſſar</hi> or <hi>Bantam</hi> in This, it being as impoſſible to defend the <hi>Engliſh</hi> intereſt without equal powers from our Soveraigns, as the Dutch Company have from theirs, as it is to fight the <hi>French</hi> with a great Army not under the diſcipline of Martial Law.</p>
+            <p>The Company do not deſire to boaſt of the ſucceſs God Almighty has given to their juſt Arms, nor of their preſent condition. But ſince there are ſo many Detracters who for private ends take the Liberty of diſcourſing what they pleaſe to Gentlemen, very knowing in other Affairs, though unable to diſprove them in this Foreign buſineſs (which they have not occaſion by their acquaintance or converſe in affairs of thoſe Remote parts to be experienced in) have thought fit to add to this a brief account of the preſent ſtate of the <hi>Engliſh</hi> intereſt in <hi>India,</hi> and of what hath been tranſacted for the publick good and honour of the <hi>Engliſh</hi> Nation theſe laſt 7 or 8 years, which they humbly hope will be found to be more than ever was performed by the <hi>Engliſh</hi> in <hi>India</hi> in the whole time foregoing, ſince the firſt Inſtitution of the <hi>Eaſt-India</hi> Company in the beginning of Queen <hi>Elizabeth</hi>'s Reign, and that the Eſtate and Power of the <hi>Eaſt-India</hi> Company is now double to what it was in any former age.</p>
+            <p>To the Accuſation of Captain <hi>Andrews,</hi> The Company think it is enough to ſay at preſent, That he is a known ingenuous worthy man, and a great lover of his Coun<g ref="char:EOLhyphen"/>trey, and that he had His Majeſties Commiſſion under the great Seal of <hi>England,</hi> to make Warr againſt the King of <hi>Syam</hi> and his Subjects, and there is no doubt, but ac<g ref="char:EOLhyphen"/>cording to his duty he would fight, kill and ſlay, all that made reſiſtance on board any <hi>Syam</hi> ſhip, whether the Reſiſters were natural <hi>Syammers,</hi> or <hi>Engliſh</hi> or other <hi>European</hi> Deſerters in the King of <hi>Syam</hi>'s ſervice, againſt their Native King and Countrey. But the Company do not beleive Captain <hi>Andrews</hi> did any thing unworthily, or be<g ref="char:EOLhyphen"/>yond his Commiſſion as is ſuggeſted.</p>
+            <p>The Caſe of the Company is very hard (or rather the Condition of <hi>England</hi> would be very deplorable) if thoſe very men, the Interlopers, and their Adherents, that by an unparallel'd Inſtance of Preſumption, never heard of before, in this or any other Chriſtian Nation, by divers Ships made ſuch a Combuſtion in <hi>India,</hi> as occaſioned the loſs of <hi>Bantam</hi> to the <hi>Dutch,</hi> the Rebellions of <hi>Bombay</hi> and St. <hi>Helena,</hi> the ſubduction of all the <hi>Engliſh</hi> Priviledges by the Native Kings of <hi>India,</hi> and conſequently great Wars and Bloodſhed, to recover thoſe Rights to the <hi>Engliſh</hi> Nation, ſhould now hope to be received, as the Aſſerters of the Rights of the People of <hi>England,</hi> as if our un<g ref="char:EOLhyphen"/>valuable
+<pb n="4" facs="tcp:175206:3"/>Liberty ſhould be Converted into Licentiouſneſs, and the Ruin of our com<g ref="char:EOLhyphen"/>mon Countrey by a Toleration, to joyn with Heathens and Papiſts in actual Hoſtility againſt this Kingdom, to deſtroy the <hi>Engliſh</hi> Intereſt in <hi>India.</hi> It is not long ſince the Company faithfully defended the <hi>Engliſh</hi> Intereſt in the Caſe of <hi>Bantam</hi> againſt eminent <hi>Dutch</hi> Civilians, and the Mercenary Ferocity of the late Lord Chancellor, of which Conteſts the Arguments on both ſides are extant in print. That was no ſooner over, but they were forced by Armes to reduce the Rebels of <hi>Bombay</hi> and St. <hi>Helena;</hi> and after that was over, to engage in a dangerous War againſt two great Princes, the Great <hi>Mogul,</hi> and the King of <hi>Syam;</hi> The latter being ſupported by an Alliance with <hi>France</hi> as aforeſaid: In which Wars, God was pleaſed to give them extraordinary Succeſs beyond their own hopes and the Opinion of all men, <hi>Engliſh</hi> and <hi>Foreigners,</hi> that were acquainted with <hi>India,</hi> and the power of thoſe two Great Princes: And now af<g ref="char:EOLhyphen"/>ter the Company had at their great Expence, and with God's wonderful Bleſſing, ſettled the <hi>Engliſh</hi> Intereſt in <hi>India</hi> upon a more regular, ſtrong, durable, and better Founda<g ref="char:EOLhyphen"/>tion, to the great Honour of the <hi>Engliſh</hi> Nation, than ever it was ſince Queen <hi>Elizabeths</hi> days. The very ſame ſort of men that occaſioned all thoſe Diſorders, Rebellions, Con<g ref="char:EOLhyphen"/>fuſion, War, and Bloodſhed, have the Confidence to appear, to accuſe the Company for their ſtrenuous and lawful endeavours grounded upon the Kings Prerogative and Au<g ref="char:EOLhyphen"/>thority <hi>extra England, Wales</hi> and <hi>Berwick</hi> to vindicate the Honour and Intereſt of this Kingdom in thoſe remote parts of the World.</p>
+            <p>The Company hope all Gentlemen know that the Government of thoſe Eaſtern parts of the World are meerly Deſpotical, and that the never ſufficiently to be admired and beloved, Common and Statute Laws of this Kingdom are plants too precious to be un<g ref="char:EOLhyphen"/>derſtood or grow ſo far Eaſtward, or in any other ſoil, but that of our Bleſſed Native Countrey; As alſo that the Company have no power to preſs or compel any <hi>Engliſhman</hi> into their ſervice, all that go thither are Petitioners for their Imployments or Volun<g ref="char:EOLhyphen"/>teers, and muſt be preſumed to go upon the Companies own Terms, and the Companies Laws there eſtabliſh't by His Majeſties Authority. Beſides which, the Company never ſend any ſuch Volunteers abroad of any degree, but if when they come to <hi>India,</hi> or have ſtayed any time there, although they be formally bound by Indentures for 5 years, if at any time they like not the Laws, Uſages, Rules or Cuſtomes of the Company or the Countrey; the Company gives them Liberty to return home at their own pleaſure, notwithſtanding their aforeſaid Indentures, they paying the Companies Charge of their Tranſportation out; ſo that no <hi>Engliſhman</hi> can pretend to be enſlaved or oppreſt in <hi>India</hi> by the Company, as is untruly ſuggeſted, except even in his own ſence he be willing before he goes out and continues to be willing ſo to be, after he comes there.</p>
+            <p>The annexed proofs do make it not onely ſuſpicious, but too manifeſt that Captain <hi>Weltden</hi> Commander of the <hi>Curtana,</hi> though he was true to his Truſt at his firſt Arrival at <hi>Mergen</hi> was afterwards corrupted by Mr. <hi>White</hi>'s Arts, for which Captain <hi>Weltden</hi> was intended to be queſtioned by the Court of Admiralty at <hi>Madraſs.</hi>
+            </p>
+            <p>The Companies General of <hi>India, Sir John Child,</hi> who hath lived about 35 years in that Countrey without ever ſeeing his own, is a Perſon of known Sobriety, Wiſdom, Truth and Courage, eſteemed and beloved by People of all Nations in <hi>India</hi> that have ſo much Ingenuity as to acknowledge Vertue in an Enemy; ſomething whereof will occur to every mans Obſervation, that knows he managed that hazardous War againſt the <hi>Mogul</hi> with ſuch ſucceſs and moderation that he took almoſt all the <hi>Mogul</hi>'s and Subjects Ships ſailing in and out of <hi>Surrat,</hi> without ſpilling a drop of their Blood, and diſmiſt the Priſoners with Cloths and Money in their Pockets, which gained ſuch a Reputation to our Nation, even amongſt the <hi>Moors</hi> themſelves, that they became univerſally Ad<g ref="char:EOLhyphen"/>vocates and Solicitors to the <hi>Mogul</hi> for the Pacification. Upon which unconſtrained, he delivered back all the <hi>Moors</hi> Ships, except <hi>Abdul Gophor</hi>'s, who was a great Incen<g ref="char:EOLhyphen"/>diary towards the War, and who is therefore left by the <hi>Mogul</hi> to the General's further Revenge, notwithſtanding the Peace made with his great Majeſty, and all the reſt of his Subjects.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
